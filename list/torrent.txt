@@ -1,10 +1,10 @@
-yggtorrent.to##.ad-alert-message-text
-yggtorrent.to###over-18-notification
-yggtorrent.to##.col-lg-12 > div:nth-of-type(2)
+yggtorrent.si##.ad-alert-message-text
+yggtorrent.si###over-18-notification
+yggtorrent.si##.col-lg-12 > div:nth-of-type(2)
 newspolovb.info^$popup
 newspolovb.info
-yggtorrent.to*3p-scriptblock
-yggtorrent.to*1p-scriptblock
+yggtorrent.si*3p-scriptblock
+yggtorrent.si*1p-scriptblock
 put*-en-ligne.com^$popup
 cultidifficient.info^$popup
 cultidifficient.info
@@ -12,15 +12,15 @@ newsushe.info
 newsushe.info^$popup
 liquorumladiom.info
 liquorumladiom.info^$popup
-yggtorrent[.ch]##.security
-yggtorrent[.ch]##.safe_download.butt
-yggtorrent[.ch]##.pulse.donate
+yggtorrent[.si]##.security
+yggtorrent[.si]##.safe_download.butt
+yggtorrent[.si]##.pulse.donate
 www.malware-killers.com
 wolve.pro
 ||www.geniusdexchange.com/*$script 
 hantinlethemsed.info
 dudebutandlac.info
-www2.yggtorrent.ch/assets/img/vpn_banner.gif$image
+www2.yggtorrent.si/assets/img/vpn_banner.gif$image
 doo6pwib3qngu.cloudfront.net^
 d3t5ngjixpjdho.cloudfront.net
 YggTorrent##.ad-alert-icon-wrapper
